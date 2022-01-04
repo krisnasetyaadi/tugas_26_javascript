@@ -5,6 +5,7 @@ sehingga akan tampil seperti hasil berikut ini :
 <ul>
   <li>
 Angka 2 NOT Infinity
+    </li>
 Angka 39 NOT Infinity
 Angka 76 NOT Infinity
 Angka 50 NOT Infinity
@@ -15,5 +16,5 @@ Angka 2 NOT Infinity
 Angka 24 NOT Infinity
 Angka 1 NOT Infinity
 Angka 16 NOT Infinity
-    <li>
+    </li>
 </ul>
